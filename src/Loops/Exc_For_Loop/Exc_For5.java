@@ -1,3 +1,5 @@
+package Loops.Exc_For_Loop;
+
 import java.util.Scanner;
 
 public class Exc_For5 {
