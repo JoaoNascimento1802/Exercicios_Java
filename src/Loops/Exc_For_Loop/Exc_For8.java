@@ -42,6 +42,6 @@ public class Exc_For8 {
 
             System.out.println();
         }
-
+        scn.close();
     }
 }
