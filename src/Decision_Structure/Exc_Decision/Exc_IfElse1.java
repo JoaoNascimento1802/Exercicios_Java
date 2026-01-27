@@ -1,4 +1,4 @@
-package Loops.Exc_Decision;
+package Decision_Structure.Exc_Decision;
 
 import java.util.Scanner;
 
@@ -23,5 +23,6 @@ public class Exc_IfElse1 {
         else{
             System.out.print("O segundo valor é maior !! ");
         }
+        scn.close();
     }
 }
